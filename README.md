@@ -5,22 +5,34 @@ I'm a passionate Fullstack Developer with a love for building scalable, user-fri
 
 🚀 My Expertise:
 Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
+
 Backend: Node.js, Express.js, Python Django, Php Laravel.
+
 Database: MongoDB, MySQL, Firebase
+
 Fullstack: MERN (MongoDB, Express, React, Node.js)
+
 E-commerce: Integrated Stripe payment gateways into modern e-commerce platforms
+
 DevOps: Docker, AWS, Git, CI/CD Pipelines
+
 UI/UX: Crafting responsive and interactive user interfaces with attention to detail
 
 
 💼 Projects I've Worked On:
 E-commerce Applications: Built robust online stores with seamless product management, Stripe payment integration, and dynamic user interfaces.
+
 Movie App: Developed a movie app using the MERN stack, with a sleek UI and responsive design.
+
 Portfolio Websites: Designed personal portfolio websites that showcase dynamic content, modern design, and optimized performance.
+
 🛠️ Current Tools and Technologies:
 Version Control: Git, GitHub
+
 Package Managers: npm, Yarn
+
 Testing: Jest, Mocha, Chai
+
 Others: Webpack, Babel, RESTful APIs, JWT Authentication
 
 
